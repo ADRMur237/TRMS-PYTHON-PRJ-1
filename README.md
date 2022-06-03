@@ -5,9 +5,9 @@ The Tuition Reimbursement System, TRMS, allows users to submit reimbursements fo
 
 Technologies Used
 Python - version 3.1
-Postman - version 2.0
+Postman - version 9.15
 JavaScript - version 3.0
-Visual Studio - version
+Visual Studio - version 1.66
 
 Features
 Pages are still under construction, login and password works rudimentarily, and numerous buttons are yet to be implemented.
